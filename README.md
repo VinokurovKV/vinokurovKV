@@ -73,6 +73,6 @@ React • TypeScript • Python • SQL
 
 ## GitHub статистика
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinokurovKV\&show_icons=true\&include_all_commits=true\&count_private=true)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=VinokurovKV&show_icons=true&include_all_commits=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vinokurovKV\&layout=compact)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VinokurovKV&layout=compact)
