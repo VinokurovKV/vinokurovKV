@@ -1,17 +1,16 @@
 # Кирилл Винокуров
 
-**Frontend Developer & Data / Analytics Specialist**
+**Frontend Developer | Data Analysis & ML**
+**Student at CMC MSU**
 React • TypeScript • Python • SQL
 
 ---
 
 ## Обо мне
 
-Разработчик с коммерческим опытом во frontend и академической практикой в области анализа данных.
+Frontend-разработчик с коммерческим опытом разработки интерфейсов на React и TypeScript. Занимаюсь созданием интерактивных пользовательских интерфейсов, разработкой сложных компонентов и интеграцией с backend API.
 
-В коммерческих проектах занимаюсь разработкой интерфейсов на React и TypeScript: создаю масштабируемые компоненты, работаю со сложной логикой и интеграциями с backend API.
-
-Параллельно реализую учебные и исследовательские проекты в области аналитики: анализ данных в Python, работа в Jupyter Notebook, написание SQL-запросов, реализация метрик и базовых моделей.
+Параллельно интересуюсь анализом данных и машинным обучением: работаю с Python, SQL и Jupyter Notebook, реализую аналитические задачи, метрики и экспериментальные модели.
 
 ---
 
@@ -53,22 +52,55 @@ React • TypeScript • Python • SQL
 
 ## Проекты
 
-### 💼 Коммерческий проект (Frontend)
+### Коммерческий проект (Frontend)
 
 - **[Marko-4](https://github.com/VinokurovKV/Marko-4)** — Веб-приложение с интерактивным UI на React/TS, реализация сложных компонентов и взаимодействие с API.
 
-### 🧑‍🎓 Учебные и аналитические проекты
+### Учебные проекты
 
-- **[Python_ProgrammingLanguage](https://github.com/VinokurovKV/Python_ProgrammingLanguage)** — Основы Python, ООП, задачи и структуры данных.
-- **[MatchResultPrediction](https://github.com/VinokurovKV/MatchResultPrediction)** — Предсказание результатов матчей с моделями и анализом.
-- **[NPU_ClassificationSearch](https://github.com/VinokurovKV/NPU_ClassificationSearch)** — Поиск подходов классификации пакетов в сетевых процессорных устройствах.
-- **[OnlineLessonAttendance](https://github.com/VinokurovKV/OnlineLessonAttendance)** — Анализ посещаемости онлайн-занятий и визуализация.
-- **[Shell_Interpreter](https://github.com/VinokurovKV/Shell_Interpreter)** — Интерпретатор оболочки Unix системы, реализованный на языке C.
-- **[MachineLearning](https://github.com/VinokurovKV/MachineLearning)** — Проект по ML: модели, метрики и визуализация.
-- **[Practice_Autumn2025](https://github.com/VinokurovKV/Practice_Autumn2025)** — Практические задачи по программированию на языке Python.
-- **[Python_JointDevelopment](https://github.com/VinokurovKV/Python_JointDevelopment)** — Совместная разработка Python-проекта.
-- **[Practice_Spring2026](https://github.com/VinokurovKV/Practice_Spring2026)** — Весенняя практика: работа с git и совместными проектами.
+- **[MachineLearning](https://github.com/VinokurovKV/MachineLearning)** — Репозиторий с учебными заданиями и экспериментами по курсу машинного обучения ВМК МГУ.  
+  Содержит Jupyter-ноутбуки с реализацией различных моделей: линейные модели, SVM, деревья решений, случайный лес, kNN.  
+  Проект помогает изучать **принципы работы моделей машинного обучения, подготовку и визуализацию данных, оценку и анализ результатов**, а также экспериментировать с разными алгоритмами.  
+  **Язык:** Python (Jupyter Notebook)
 
+- **[MatchResultPrediction](https://github.com/VinokurovKV/MatchResultPrediction)** — Симуляция волейбольного матча между двумя командами.  
+  Реализована объектно-ориентированная модель игры с учётом ролей игроков, тактики, игровых серий и влияния ключевых игроков на результат.  
+  Проект помог лучше разобраться в проектировании классов и моделировании сложных систем.  
+  **Язык:** C++
+
+- **[OnlineLessonAttendance](https://github.com/VinokurovKV/OnlineLessonAttendance)** — Клиент-серверное приложение для отслеживания присутствия учащихся на дистанционных занятиях.  
+  Реализовано сетевое взаимодействие между учителем и учениками с возможностью автоматической и ручной проверки присутствия.  
+  Во время работы над проектом изучена работу с сокетами, клиент-серверной архитектурой и созданием графического интерфейса.  
+  **Язык:** Python (socket, Tkinter)
+
+- **[ParallelDataProcessing](https://github.com/VinokurovKV/ParallelDataProcessing)** — Исследование эффективности параллельных вычислений на многопроцессорной системе.  
+  Реализованы несколько параллельных версий алгоритма с использованием OpenMP и MPI, проведено сравнение производительности и анализ масштабируемости на суперкомпьютере Polus.  
+  В ходе проекта изучались методы распараллеливания, влияние оптимизаций компилятора и масштабирование программы при увеличении числа ядер.  
+  **Язык:** C (OpenMP, MPI)
+
+- **[Shell_Interpreter](https://github.com/VinokurovKV/Shell_Interpreter)** — Реализация интерактивного командного интерпретатора (аналог Unix Shell).  
+  Поддерживаются конвейеры команд, перенаправление ввода/вывода, фоновый режим выполнения, условные операторы и группировка команд.  
+  Проект позволил поработать с системными вызовами Unix, управлением процессами, сигналами и разбором командной строки.  
+  **Язык:** C
+
+- **[NPU_ClassificationSearch](https://github.com/VinokurovKV/NPU_ClassificationSearch)** — Реализация алгоритмов поиска в таблицах классификации сетевого процессора и моделирование обработки сетевых пакетов.  
+  Реализованы структуры данных (бинарное дерево поиска и B-дерево) и алгоритмы классификации пакетов по таблицам MAC-VLAN, FIB и ARP.  
+  В ходе проекта разбирался с реализацией и тестированием структур данных, а также моделированием логики маршрутизации и коммутации пакетов.  
+  **Язык:** Python
+
+- **[Python_ProgrammingLanguage](https://github.com/VinokurovKV/Python_ProgrammingLanguage)**  
+  Практические задачи по **Python**: структуры данных, алгоритмы и объектно-ориентированное программирование.
+
+- **[Practice_Autumn2025](https://github.com/VinokurovKV/Practice_Autumn2025)**  
+  Набор практических задач по программированию на Python параллельно лекционному курсу.
+  **Язык:** Python
+
+- **[Python_JointDevelopment](https://github.com/VinokurovKV/Python_JointDevelopment)**  
+  Проект по совместной разработке на **Python** с использованием Git и работой в команде.  
+
+- **[Practice_Spring2026](https://github.com/VinokurovKV/Practice_Spring2026)**  
+  Учебная практика: работа с Git, совместной разработкой и структурой проектов параллельно лекционному курсу.  
+  **Язык:** Python
 ---
 
 ## GitHub статистика
