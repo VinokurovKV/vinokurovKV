@@ -1,8 +1,8 @@
 # Кирилл Винокуров
 
-**Frontend Developer | Data Analysis & ML**
-**Student at CMC MSU**
-React • TypeScript • Python • SQL
+**Frontend Developer | Data Analysis & ML**  
+**Student at CMC MSU**  
+React • TypeScript • Python • SQL • C/C++
 
 ---
 
