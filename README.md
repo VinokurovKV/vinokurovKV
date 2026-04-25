@@ -1,6 +1,6 @@
 # Кирилл Винокуров
 
-**Analyst / Developer**  
+**Data Analyst / Developer**  
 **Student at CMC MSU**  
 Python • SQL • ML • TypeScript • React • C/C++
 
@@ -51,7 +51,7 @@ Python • SQL • ML • TypeScript • React • C/C++
 
 ## Проекты
 
-### Коммерческий проект (Frontend)
+### Коммерческий проект
 
 - **[Marko-4](https://github.com/VinokurovKV/Marko-4)** — Веб-приложение с интерактивным UI на React/TS, реализация сложных компонентов и взаимодействие с API. Репозиторий приватный, мои компоненты можно посмотреть во frontend репозитории:
 **[Marko-4_Frontend](https://github.com/VinokurovKV/Marko-4_Frontend)**
