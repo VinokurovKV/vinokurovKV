@@ -1,7 +1,7 @@
 # Кирилл Винокуров
 
-**Data Analyst / Developer**  
-**Student at CMC MSU**  
+**Аналитик данных | Дата-инженер**  
+**ВМК МГУ**  
 Python • SQL • ML • TypeScript • React • C/C++
 
 ---
