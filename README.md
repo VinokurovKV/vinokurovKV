@@ -1,7 +1,7 @@
 # Кирилл Винокуров
 
 **Frontend-разработчик**  
-**ВМК МГУ** 
+**ВМК МГУ**  
 TypeScript • React • JavaScript • REST API • MUI • Git • Docker  
 Swagger • Python • SQL • C/C++
 
@@ -40,10 +40,14 @@ Swagger • Python • SQL • C/C++
 
 ### Коммерческий проект
 
-- **[Marko-4](https://github.com/VinokurovKV/Marko-4)** — Веб-приложение с интерактивным UI на React/TS, реализация сложных компонентов и взаимодействие с API. Репозиторий приватный, мои компоненты можно посмотреть во frontend репозитории:
+- **[Marko-4](https://github.com/VinokurovKV/Marko-4)** — Система автоматизированного тестирования с интерактивным UI на React/TypeScript, в которой я реализовывал сложные компоненты, экраны, взаимодействовал с бэком. Репозиторий приватный, но фронтовую часть и мои компоненты можно посмотреть во frontend репозитории:
 **[Marko-4_Frontend](https://github.com/VinokurovKV/Marko-4_Frontend)**
 
 ### Учебные проекты
+
+- **[MoviesApp_Project](https://github.com/VinokurovKV/MoviesApp_Project)** - Веб-приложение, реализующее страницу со списком фильмов с API Kinopoisk, поддерживает бесконечную прокрутку, фильтрацию, добавление в избранное, а также подробную информацию о каждом фильме
+
+- **[Graph_Serializer](https://github.com/VinokurovKV/Graph_Serializer)** - Реализация сериализатора/десериализатора графов по курсу "Проектирование больших систем на C++"
 
 - **[MachineLearning](https://github.com/VinokurovKV/MachineLearning)** — Репозиторий с учебными заданиями и экспериментами по курсу машинного обучения ВМК МГУ.  
   Содержит Jupyter-ноутбуки с реализацией различных моделей: линейные модели, SVM, деревья решений, случайный лес, kNN.  
