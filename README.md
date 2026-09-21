@@ -2,7 +2,7 @@
 
 **Frontend-разработчик**  
 **ВМК МГУ** 
-TypeScript • React • JavaScript • REST API • MUI • Git • Docker
+TypeScript • React • JavaScript • REST API • MUI • Git • Docker  
 Swagger • Python • SQL • C/C++
 
 ---
