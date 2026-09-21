@@ -89,9 +89,3 @@ Swagger • Python • SQL • C/C++
   Учебная практика: работа с Git, совместной разработкой и структурой проектов параллельно лекционному курсу.  
   **Язык:** Python
 ---
-
-## GitHub статистика
-
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=VinokurovKV&show_icons=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VinokurovKV&layout=compact)
